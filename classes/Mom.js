@@ -1,0 +1,3 @@
+class Mom extends GameObject{
+    
+}
